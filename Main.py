@@ -23,7 +23,7 @@ def banner():
 	echo  "                                                         - Saran"
 	printf " "
 	printf "\e[1;32m                      .:.:.\e[0m\e[1;95m OTP && CALL bombing tool  \e[0m\e[1;32m.:.:.\e[0m\n"
-	printf "\e[1;32m               .:.:.\e[0m\e[1;95m made by \e[31m Pro player\e[0m \e[0m\e[1;32m.:.:.\e[0m\n"
+	printf "\e[1;32m               .:.:.\e[0m\e[1;95m made by \e[31m God of Mischief\e[0m \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\e[1;32m       .:.:.\e[0m\e[1;95m Made with love \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\n"
 	printf "          \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
